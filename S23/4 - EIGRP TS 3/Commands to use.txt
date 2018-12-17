@@ -1,0 +1,27 @@
+DUAL ISSUE on R3
+
+R1:
+ping 4.4.44
+traceroute 4.4.4.4
+debug ip packet 
+show ip route
+show ip eigrp nei
+
+R2:
+show ip eigrp nei
+show ip prot
+show ip eigrp int
+ping 10.1.2.2
+
+R3:
+show ip prot
+-> can you see the problem
+debug eigrp packet
+
+
+
+show ip eigrp nei
+show ip eigrp int
+show ip prot
+show ip int
+debug eigrp packets 

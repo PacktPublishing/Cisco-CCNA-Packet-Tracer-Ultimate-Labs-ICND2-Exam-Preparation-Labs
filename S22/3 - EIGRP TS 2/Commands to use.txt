@@ -1,0 +1,25 @@
+AS Number mismatch on R3 (AS 1 instead of 100)
+
+R1:
+ping 4.4.44
+traceroute 4.4.4.4
+debug ip packet 
+show ip route
+show ip eigrp nei
+
+R2:
+show ip eigrp nei
+show ip prot
+show ip eigrp int
+ping 10.1.2.2
+
+R3:
+show ip prot
+-> can you see the problem
+
+
+show ip eigrp nei
+show ip eigrp int
+show ip prot
+show ip int
+debug eigrp packets 
