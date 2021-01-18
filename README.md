@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Cisco-CCNA-Packet-Tracer-Ultimate-Labs-ICND2-Exam-Preparation-Labs
 Code repository for Cisco CCNA Packet Tracer Ultimate Labs: ICND2 Exam Preparation Labs, Published by Packt
 # Cisco CCNA Packet Tracer Ultimate Labs: ICND2 Exam Preparation Labs
